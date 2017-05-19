@@ -2,5 +2,15 @@
 	"hobby": [
 		"Eating",
 		"Debugging"
+	],
+	"pet": [
+		{
+			"name": "Platypus",
+			"birthday": "January 1, 2010"
+		},
+		{
+			"name": "Turtle",
+			"birthday": "2010-06-01"
+		}
 	]
 }
